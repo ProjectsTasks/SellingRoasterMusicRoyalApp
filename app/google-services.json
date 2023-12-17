@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865973635578",
+    "project_id": "sellingmusicroyalapp",
+    "storage_bucket": "sellingmusicroyalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865973635578:android:29c5a090cbe6a6585d7c43",
+        "android_client_info": {
+          "package_name": "com.example.sellingmusicroyalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6g9cPN-LXZePOpIbrXVVMj5C4duvOjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
